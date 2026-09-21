@@ -15,4 +15,10 @@ www.reddit.com##.my-2xs.py-2xs.px-md.xs\:rounded-\[16px\].hover\:bg-neutral-back
 catbox.moe##.notesmall
 catbox.moe##div.notetiny:nth-of-type(4)
 litterbox.catbox.moe##.image
-grok.com##.hover\:scale-\[1\.01\].dark.gap-4.flex.text-left.group.rounded-3xl.min-\[384px\]\:min-w-52.min-\[384px\]\:w-max.border-card.cursor-pointer.border.text-white.text-xs.bg-black.w-\[calc\(100\%-16px\)\].items-center.py-4.px-5.sm\:right-2.sm\:bottom-2.bottom-\[
+grok.com##.hover\:scale-\[1\.01\].dark.gap-4.flex.text-left.group.rounded-3xl.min-\[384px\]\:min-w-52.min-\[384px\]\:w-max.border-card.cursor-pointer.border.text-white.text-xs.bg-black.w-\[calc\(100\%-16px\)\].items-center.py-4.px-5.sm\:right-2.sm\:bottom-2.bottom-\[140px\].fixed.upsell-small
+
+! 20 Aug 2026 https://www.amazon.in
+www.amazon.in###nav-app-banner-container
+
+! 25 Aug 2026 https://www.amazon.in
+www.amazon.in##.hmenu-visible.header-enabled.accountMenu.hmenu > li:nth-of-type(2) > .hmenu-item
